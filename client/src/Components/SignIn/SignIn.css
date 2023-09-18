@@ -1,0 +1,40 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#sign-in {
+  /* border: 1px solid black; */
+  text-align: center;
+  padding: 150px 0px 0px 0px;
+}
+
+#si-form {
+  /* border: 1px solid red; */
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+}
+
+#si-form input {
+  height: 30px;
+  width: 300px;
+  font-size: 23px;
+  padding: 5px;
+  outline: none;
+  background-color: transparent;
+  margin: 5px 0px 5px 0px;
+}
+
+#si-form button {
+  height: 40px;
+  width: 315px;
+  font-size: 23px;
+  font-weight: 700;
+  background-color: lightseagreen;
+  color: lightblue;
+  border: none;
+  margin: 5px 0px 5px 0px;
+  cursor: pointer;
+}

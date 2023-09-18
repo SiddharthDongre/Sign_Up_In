@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#footer {
+  /* border: 1px solid black; */
+  text-align: center;
+  background-color: lightseagreen;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+}
+
+.footer-head {
+  font-size: 30px;
+  color: lightblue;
+  padding: 7px 0px;
+}
